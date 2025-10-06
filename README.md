@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👩🏻‍💻 Pedro Henrique
+# 👋 Hi there! I'm Pedro Henrique  
 
-<!--
-**peuhenriqk/peuhenriqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 26 years old and from Recife, Brazil.  
+I completed high school at **CLC**, where I also earned a **technical degree in Computer Science**.  
+Currently, I’m pursuing a degree in **Systems Analysis and Development** at **UNIBRA**.  
 
-Here are some ideas to get you started:
+I’m passionate about technology and about creating **clean, efficient, and scalable solutions**.  
+I enjoy learning new technologies, improving my skills, and turning ideas into real projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you’ll find some of my **personal and academic projects** that reflect my journey in programming and technology.  
+
+
